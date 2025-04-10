@@ -1,6 +1,4 @@
-<html>
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</html>
+<!-- thanks to devicons, available at devicon.dev if you wanna use them!  -->
 
 <pre>
 >> aló
@@ -13,25 +11,25 @@
 >> stream kiltro
 
 >> ls
-✉️ contact    🗀 skills
+✉️ contact    📁 skills
 
 >> ls skills
-🗀 data    🗀 languages    🗀 operating-systems    🗀 misc    🗀 programming    🗀 web
+📁 data    📁 languages    📁 operating-systems    📁 misc    📁 programming    📁 web
 
 >> ls skills/programming
-<i class="devicon-c-plain colored"></i> C    <i class="devicon-cplusplus-plain colored"></i> C++    <i class="devicon-java-plain colored"></i> Java   <i class="devicon-javascript-plain colored"></i> JavaScript    <i class="devicon-php-plain colored"></i> PHP    <i class="devicon-python-plain colored"></i> Python    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width=12 /> C    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width=12 /> C++    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width=12 /> Java   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=12 /> JavaScript    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=12 /> PHP    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=12 /> Python    
 
 >> ls skills/web
-<i class="devicon-amazonwebservices-plain colored"></i> AWS    <i class="devicon-bootstrap-plain colored"></i> Bootstrap    <i class="devicon-express-original colored"></i> Express    <i class="devicon-fastapi-plain colored"></i> FastAPI    <i class="devicon-laravel-plain colored"></i> Laravel    <i class="devicon-nginx-plain colored"></i> NGINX    <i class="devicon-nodejs-plain-wordmark colored"></i> Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=12 /> AWS    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=12 /> Bootstrap    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=12 /> Express    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=12 /> FastAPI    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width=12 /> Laravel    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=12 /> NGINX    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=12 /> Node.js
 
 >> ls skills/data
-<i class="devicon-mariadb-plain colored"></i> MariaDB    <i class="devicon-microsoftsqlserver-plain colored"></i> MS SQL Server    <i class="devicon-mysql-plain colored"></i> MySQL    <i class="devicon-postgresql-plain colored"></i> PostgreSQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width=12 /> MariaDB    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width=12 /> MS SQL Server    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=12 /> MySQL    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width=12 /> PostgreSQL
 
 >> ls skills/operating-systems
-<i class="devicon-archlinux-plain colored"></i> Arch Linux    <i class="devicon-opensuse-plain colored"></i> openSUSE    <i class="devicon-ubuntu-plain colored"></i> Ubuntu    <i class="devicon-windows11-original colored"></i> Windows 11
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width=12 /> Arch Linux    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opensuse/opensuse-original.svg" width=12 /> openSUSE    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=12 /> Ubuntu    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width=12 /> Windows 11
 
 >> ls skills/misc
-<i class="devicon-docker-plain colored"></i> Docker    <i class="devicon-git-plain colored"></i> Git    <i class="devicon-latex-plain colored"></i> LaTeX    <i class="devicon-sdl-plain colored"></i> SDL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width=12 /> Docker    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=12 /> Git    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width=12 /> LaTeX    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" width=12 /> SDL
 
 >> ls skills/languages
 <b>EN</b> English    <b>Ñ</b> Spanish
@@ -39,3 +37,5 @@
 >> ./contact
 alejandrogaonag@gmail.com
 </pre>
+
+<!-- thanks to devicons, available at devicon.dev if you wanna use them!  -->
