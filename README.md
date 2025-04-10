@@ -1,4 +1,4 @@
-<!-- thanks to devicons, available at devicon.dev if you wanna use them!  -->
+<!-- thanks to devicons for the icons!  -->
 
 <pre>
 >> aló
